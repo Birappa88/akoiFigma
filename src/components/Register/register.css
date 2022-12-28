@@ -1,0 +1,95 @@
+.register {
+    position: absolute;
+    width: 520.19px;
+    height: 627.02px;
+    left: 1220.3px;
+    top: 281px;
+}
+
+.register>h1 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 46px;
+    line-height: 69px;
+    color: #FFFFFF;
+}
+
+.register .email>input {
+    width: 518.19px;
+    height: 82.77px;
+    left: 1221.94px;
+    top: 571.64px;
+
+    margin-top: 20px;
+    background: #FFFFFF;
+    border-radius: 89px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 30px;
+    padding-left: 20px;
+    letter-spacing: 0.07em;
+
+    color: #292929;
+}
+.register .password{
+    margin-top: 10px;
+}
+.register .password>input {
+    width: 418.19px;
+    height: 82.77px;
+    left: 1222.3px;
+    top: 697px;
+    background: #FFFFFF;
+    border-radius: 89px;
+    left: 1304.36px;
+    top: 726.41px;
+    padding-left: 20px;
+    margin-top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 30px;
+
+    letter-spacing: 0.07em;
+
+    color: #292929;
+}
+
+.register .button {
+    width: 518.19px;
+    height: 86.02px;
+    left: 1221.94px;
+    top: 724.63px;
+    
+    margin-top: 30px;
+    background: #EB7186;
+
+    border-radius: 69px;
+}
+
+.register .password .eye {
+    margin-left: 10px;
+}
+.register .button .registerb {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 63px;
+    
+    color: #FFFFFF;
+}
+

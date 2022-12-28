@@ -1,0 +1,99 @@
+.login {
+    position: absolute;
+    width: 519.43px;
+    height: 529.65px;
+    left: 1220.7px;
+    top: 281px;
+}
+
+.login>h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 46px;
+    line-height: 69px;
+    color: #FFFFFF;
+}
+
+.login .email>input {
+    width: 518.19px;
+    height: 82.77px;
+    left: 1221.94px;
+    top: 571.64px;
+    background: #FFFFFF;
+    border-radius: 89px;
+    margin-top: 30px;
+    padding-left: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 30px;
+
+    letter-spacing: 0.07em;
+
+    color: #292929;
+}
+
+.login .password>input {
+    width: 418.19px;
+    height: 82.77px;
+    left: 1221.94px;
+    top: 571.64px;
+    margin-top: 20px;
+    background: #FFFFFF;
+    border-radius: 89px;
+    padding-left: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 30px;
+    /* identical to box height */
+
+    letter-spacing: 0.07em;
+
+    color: #292929;
+}
+
+.login .password .eye {
+    margin-left: 10px;
+}
+
+.login .button {
+    width: 518.19px;
+    height: 86.02px;
+    left: 1221.94px;
+    top: 724.63px;
+    background: #EB7186;
+    border-radius: 69px;
+}
+
+.login .button .loginb {
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Poppins';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 63px;
+
+    color: #FFFFFF;
+}
+
+.login .forgot {
+    margin-left: 350px;
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}

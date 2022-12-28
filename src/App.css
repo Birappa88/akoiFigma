@@ -1,0 +1,53 @@
+.App {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  background: #FFFFFF;
+}
+
+.App .logo {
+  position: absolute;
+  width: 191.29px;
+  height: 110.58px;
+  left: 360.05px;
+  top: 183.37px;
+}
+
+.App .frame {
+  position: absolute;
+  width: 718px;
+  height: 554px;
+  left: 159px;
+  top: 393.53px;
+
+}
+
+.App .rectangle {
+  position: absolute;
+  width: 877.92px;
+  height: 1080px;
+  left: 1042.08px;
+  top: 0px;
+
+  background: #7976B9;
+}
+
+.App .line {
+
+  position: absolute;
+  width: 155.76px;
+  height: 0px;
+  left: 1403.16px;
+  top: 361px;
+
+  border: 5px solid #FFFFFF;
+}
+
+.group99 {
+  position: absolute;
+  width: 519.43px;
+  height: 529.65px;
+  left: 1220.7px;
+  top: 281px;
+  background-color: rgb(103, 35, 197);
+}
